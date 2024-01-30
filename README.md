@@ -36,6 +36,7 @@ y la segunda es la parte grafica echo por medio de el modulo de tkinter y mas co
 [![Captura2.png](https://i.postimg.cc/mDJHGnB3/Captura2.png)](https://postimg.cc/WFm3GXDt)
 
 la divicion la tengo alli en la linea 129 por comodidad visial para mi en el momento que estaba creando el programa 
+
 [![Captura3.png](https://i.postimg.cc/nL78kjMH/Captura3.png)](https://postimg.cc/Ff9nFKjq)
 
 este serie como se veria el progrma en ejecucion tiene varios detalles visuales:
@@ -49,4 +50,7 @@ y el  grafico que muestra las casillas muertas de color azul
 y la casillas vivas en color rojo  
 
 y los numeros contando las casillas como en un plano
+
+[![Captura4.png](https://i.postimg.cc/xTbPqKZT/Captura4.png)](https://postimg.cc/hfcm57gH)
+
 
