@@ -57,5 +57,11 @@ que la generacion cero, es la misma que la matriz de la condicion inicial que le
 
 [![Captura5.png](https://i.postimg.cc/2SRg5j2M/Captura5.png)](https://postimg.cc/tYkBSb0N)
 
+y cerraria y volveria abrir pero ahora con la generacion cero de las condiciones iniciales 
+tambien podemos hacerlo con una genracion superior 
+
+![image](https://github.com/Rhema1517/Juego-de-la-vida-de-Conway/assets/111716153/f8627248-1856-4295-9d36-96bad9aa9e56)
+
+entonces ponemos el numero de la generacion que queremos ir y le damos a crear 
 
 
