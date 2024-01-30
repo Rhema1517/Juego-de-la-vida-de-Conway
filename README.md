@@ -38,9 +38,7 @@ y la segunda es la parte grafica echo por medio de el modulo de tkinter y mas co
 la divicion la tengo alli en la linea 129 por comodidad visial para mi en el momento que estaba creando el programa 
 [![Captura3.png](https://i.postimg.cc/nL78kjMH/Captura3.png)](https://postimg.cc/Ff9nFKjq)
 
-este serie como se veria el progrma en ejecucion 
-
-tiene varios detalles visuales 
+este serie como se veria el progrma en ejecucion tiene varios detalles visuales:
 
 tiene el nombre del programa 
 
