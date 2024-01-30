@@ -53,4 +53,7 @@ y los numeros contando las casillas como en un plano
 
 [![Captura4.png](https://i.postimg.cc/xTbPqKZT/Captura4.png)](https://postimg.cc/hfcm57gH)
 
+y pues tiene un pequeño campo de texto que nos permite ir a otra generacion, no importa si es posterior o superior en este caso vamos a la cero 
+que la generacion cero, es la misma que la matriz de la condicion inicial que le dimos para iniciar el programa 
+
 
