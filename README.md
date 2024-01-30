@@ -68,3 +68,10 @@ entonces ponemos el numero de la generacion que queremos ir y le damos a crear
 
 se genero la generacion 9 segun las condiciones iniciales del programa 
 
+tambien podemos poner el ejemplo de cambiar las condiciones iniciales y el programa funcionara perfectamente eso es lo que pueba precisamente los test 
+de echo yo recomiento que si descargas el programa puebes por ti mismo los test ya que algunos dan patrones muy interesantes 
+
+![image](https://github.com/Rhema1517/Juego-de-la-vida-de-Conway/assets/111716153/f72d8a3d-28b0-4608-bebb-94f16dee6ae8)
+
+entonces cambimoas la condiciones iniciales y ejecutamos el programa 
+
