@@ -23,3 +23,14 @@ la condicion inicial de las celular vivas y muertas por medio de una matriz y ad
 
 
 entonces alli en JD poner la matriz y el numero de que es la generacion que mostrara primero 
+
+el codigo  se va hasta las lineas 254 pero muchos son comentario explicando algunos conseptos
+tambien tiene muchas lineas vacias que estas po comida como tal el codigo termina en la linea 236 pero seguramente son mucho menos 
+por lo espacion que estas puestos por comodidad 
+
+el codigo realmente esta dividido en dos partes la primera parte es donde esta toda la parte que calcula la generacion buscada con la condiciones iniciales 
+para dar el resultado correcto 
+
+y la segunda es la parte grafica 
+
+[![Captura2.png](https://i.postimg.cc/mDJHGnB3/Captura2.png)](https://postimg.cc/WFm3GXDt)
