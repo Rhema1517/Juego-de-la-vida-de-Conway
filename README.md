@@ -64,4 +64,7 @@ tambien podemos hacerlo con una genracion superior
 
 entonces ponemos el numero de la generacion que queremos ir y le damos a crear 
 
+![image](https://github.com/Rhema1517/Juego-de-la-vida-de-Conway/assets/111716153/7a5291f0-e67b-417e-9c31-260dd205a1ab)
+
+se genero la generacion 9 segun las condiciones iniciales del programa 
 
