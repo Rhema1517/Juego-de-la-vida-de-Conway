@@ -14,3 +14,9 @@ Cada celda contiene un solo número que representa su valor de vida o de muerte 
 2.Cualquier célula muerta con tres vecinos vivos se convierte en una célula viva.
 
 3.Todas las demás células vivas mueren en la próxima generación. Del mismo modo, todas las demás células muertas permanecen muertas.
+
+bueno explicando un poco lo que se vera en el codigo tal vez el unico detalle que no me encanta y espero un dia hacer una nueva version y cambiarlo 
+es que en el mismo codigo tenemos que poner la condiciones iniciales que queremos,
+la condicion inicial de las celular vivas y muertas por medio de una matriz y ademas un numero con el cual sera la generacion que muestre en la interfas grafica 
+
+[![Captura.png](https://i.postimg.cc/1zMhgxdS/Captura.png)](https://postimg.cc/t11mfcyv)
