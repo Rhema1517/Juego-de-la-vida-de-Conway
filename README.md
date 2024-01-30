@@ -20,3 +20,6 @@ es que en el mismo codigo tenemos que poner la condiciones iniciales que queremo
 la condicion inicial de las celular vivas y muertas por medio de una matriz y ademas un numero con el cual sera la generacion que muestre en la interfas grafica 
 
 [![Captura.png](https://i.postimg.cc/1zMhgxdS/Captura.png)](https://postimg.cc/t11mfcyv)
+
+
+entonces alli en JD poner la matriz y el numero de que es la generacion que mostrara primero 
