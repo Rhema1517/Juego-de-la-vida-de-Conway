@@ -75,3 +75,12 @@ de echo yo recomiento que si descargas el programa puebes por ti mismo los test 
 
 entonces cambimoas la condiciones iniciales y ejecutamos el programa 
 
+![image](https://github.com/Rhema1517/Juego-de-la-vida-de-Conway/assets/111716153/f106d0f2-99eb-4621-92fb-43fafb122cbb)
+
+
+![image](https://github.com/Rhema1517/Juego-de-la-vida-de-Conway/assets/111716153/56c81f98-39ae-4269-ae34-675a1747bf0e)
+
+
+inclusive podemos ver como el programa funciona en condiciones mucho ma grandes 
+y da los resultados que corresponden segun el juego 
+espero les guste mi programa de practica 
