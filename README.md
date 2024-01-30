@@ -29,8 +29,11 @@ tambien tiene muchas lineas vacias que estas po comida como tal el codigo termin
 por lo espacion que estas puestos por comodidad 
 
 el codigo realmente esta dividido en dos partes la primera parte es donde esta toda la parte que calcula la generacion buscada con la condiciones iniciales 
-para dar el resultado correcto 
+para dar el resultado correcto, todo echo con python
 
-y la segunda es la parte grafica 
+y la segunda es la parte grafica echo por medio de el modulo de tkinter y mas concretamente con su funcionalidad de canvas
 
 [![Captura2.png](https://i.postimg.cc/mDJHGnB3/Captura2.png)](https://postimg.cc/WFm3GXDt)
+
+la divicion la tengo alli en la linea 129 por comodidad visial para mi en el momento que estaba creando el programa 
+
