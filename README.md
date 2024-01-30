@@ -2,7 +2,7 @@ Este es un codigo que hace una simulacion del juego de la vida de Conway
 Con buenas pruebas que desmuestran que el codigo funciona en todos los casos que deberia funcionar 
 
 
-###Explicación del Juego de la Vida
+### Explicación del Juego de la Vida
 
 El Juego de la Vida es un autómata celular desarrollado por el matemático John Horton Conway en 1969. Lo nombró en honor a su esposa, Heidi, que había muerto a principios de ese año. El juego consiste en una cuadrícula en la que cada puede o no haber cuadrados pintados (las “células”).
 
